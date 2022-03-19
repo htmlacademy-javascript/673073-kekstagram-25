@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Денис Светличный](https://up.htmlacademy.ru/javascript/25/user/673073).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Устименко](https://htmlacademy.ru/profile/spiritmoon).
 
 ---
 
